@@ -1,4 +1,4 @@
-**clear summary of all the Core Java topics **
+**Clear summary of all the Core Java topics**
 
 **Abstraction**
 - Focuses on what an object does, not how.
