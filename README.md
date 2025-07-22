@@ -33,7 +33,7 @@
 - Provides public getters/setters to access data safely.
 - Helps in data hiding, modularity, and maintenance.
 
-** Exception Handling**
+**Exception Handling**
 - Manages runtime errors without crashing the program.
 - Uses try, catch, finally, throw, and throws.
 - Supports checked and unchecked exceptions.
@@ -45,7 +45,7 @@
 - Supports single, multilevel, and hierarchical inheritance.
 - Uses super to access parent members.
 
-** Interface**
+**Interface**
 - A 100% abstract blueprint for a class (in older Java versions).
 - A class can implement multiple interfaces.
 - Promotes loose coupling and multiple inheritance.
@@ -57,7 +57,7 @@
 - do-while: Executes at least once
 - break and continue modify flow inside loops
 
-** Methods**
+**Methods**
 - Blocks of code to perform specific tasks.
 - Can return values or be void.
 - Supports method overloading (same name, different parameters)
